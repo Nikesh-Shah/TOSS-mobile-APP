@@ -4,7 +4,9 @@ A simple and interactive coin toss application built with Expo and React Native.
 
 ## Demo
 
-https://github.com/user-attachments/prototype/prototype.mp4
+https://github.com/user-attachments/assets/prototype.mp4
+
+Or view the demo video: [prototype/prototype.mp4](./prototype/prototype.mp4)
 
 ## Features
 
